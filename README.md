@@ -1,6 +1,7 @@
 # Lethal Company Modpack
 A modpack for the game Lethal Company that I made for my friends.  
 It just includes a bunch of QOL features and make the game way harder.
+I've also adjusted the configs a bit to make the game feel better.
 
 ## Installation
 
