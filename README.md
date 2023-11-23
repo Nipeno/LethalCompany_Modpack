@@ -34,7 +34,7 @@ Drag everything except the README.md into your games folder
 - LetMeLookDown - https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/
 - HDLethalCompany - https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/
 - LateCompany - https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/
-- REMOVED TEMPORARILY - Brutal Company - https://thunderstore.io/c/lethal-company/p/2018/Brutal_Company/  
+- Brutal Company - https://thunderstore.io/c/lethal-company/p/2018/Brutal_Company/  
 
 Fuck you Tony  
 Fuck you Tank
