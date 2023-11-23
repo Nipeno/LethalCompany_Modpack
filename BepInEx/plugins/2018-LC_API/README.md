@@ -37,6 +37,9 @@ Networking - Easily send data across the network to sync data between clients ef
 # Version 1.2.1
 - Adjusted README formatting.
 
+# Version 1.3.0
+- Changed how the BundleLoader in the BundleAPI loads assets to fix issues caused by downloading mods from mod managers. The path BepInEx > Bundles is outdated and should not be used anymore.
+
 
 
 

@@ -1,7 +1,9 @@
 {
     "name": "LCBetterSaves",
-    "version_number": "1.1.0",
+    "version_number": "1.3.0",
     "website_url": "https://github.com/paul-merkamp/LCBetterSaves",
-    "description": "Have as many saves as you want!",
-    "dependencies": []
+    "description": "Have as many saves as you want! (And rename them, too!)",
+    "dependencies": [
+		"2018-LC_API-1.2.1"
+	]
 }
