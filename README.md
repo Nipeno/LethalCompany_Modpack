@@ -36,5 +36,5 @@ Drag everything except the README.md into your games folder
 - LateCompany - https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/
 - REMOVED TEMPORARILY - Brutal Company - https://thunderstore.io/c/lethal-company/p/2018/Brutal_Company/  
 
-Fuck you Tony
+Fuck you Tony  
 Fuck you Tank
