@@ -1,0 +1,1 @@
+Replaces the Airhorn sound effect with the HIT moaning sound effect.

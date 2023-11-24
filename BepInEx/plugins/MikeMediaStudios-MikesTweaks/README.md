@@ -2,7 +2,7 @@
 Mod for Lethal Company with multiple configs for tweaks to customize your game's experience. 
 
 # Requirements
-- It's a good idea for everyone that will join your lobby to have this mod installed as well and have the same version. Not having the mod and joining someone who does might result in unexpected behaviour and bugs.
+- It's a good idea for everyone that will join your lobby to have this mod installed as well and have the same version. Not having the mod and joining someone who does, might result in unexpected behaviour and bugs.
 - You will need BepinEx to use this mod.
 
 # Compatibility
@@ -13,7 +13,8 @@ Mod for Lethal Company with multiple configs for tweaks to customize your game's
 - The mod auto detects and enters compatibility mode if it sees any of the following mods loaded:
     - Any ReservedSlot mods:
       - Does not create extra slots from my mod (Automatically Disabled)
-      - Disables flashlight toggle from my mod (Automatically Disabled)
+      - Disables flashlight keybind from my mod (Automatically Disabled)
+      - Disables walkietalkie keybind from my mod (Automatically Disabled)
       - Item Slot keybinds still work, even for the reserved slots (Modifiable)
 
 # These are the default tweaks that are adjustable from the config file:
@@ -54,6 +55,7 @@ Mod for Lethal Company with multiple configs for tweaks to customize your game's
   - Emotes: Y and U keys
   - Push To Talk button can be bound to Mouse buttons now inside the Game's Settings Menu
   - Flashlight Keybind: F
+  - WalkieTalkie Keybind: R
 ## 4. Player Sprint (Synced)
   - Sprint Stamina: 12 (was 5)
   - Stamina Drain from jump: 0.04 (was 0.08)
@@ -68,7 +70,11 @@ Mod for Lethal Company with multiple configs for tweaks to customize your game's
   - Time Speed: 0.5 (was 1)
 ## 6. Game Rules (Partial)
   - Allow Flashlight Keybind (allows/disallows using the quick-use Flashlight keybind for everyone): true (vanilla: false) (Synced)
+
+  - Allow WalkieTalkie Keybind (allows/disallows using the quick-use Flashlight keybind for everyone): true (vanilla: false) (Synced)
+
   - Allow Hotbar Slot Keybinds (allows/disallows using the quick-use hotbar keybinds for everyone): true (vanilla: false) (Synced)
+
   - Allow Terminal Use by Clients (allows/disallows using the terminal as a client): true (vanilla: false) (Networked)
 
   - Use Vanilla Defaults for Sprinting (allows you to use the vanilla settings for sprinting without changing all the individual values tied to sprinting, does not overwrite your values, only ingame values): false (vanilla: true) (Individual)

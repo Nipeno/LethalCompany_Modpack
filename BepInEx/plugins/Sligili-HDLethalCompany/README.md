@@ -1,4 +1,4 @@
-# HDLethalCompany V1.4.0 - Sligili | CLIENT SIDE 🎈
+# HDLethalCompany V1.4.1 - Sligili | CLIENT SIDE 🎈
 
 ## INSTALLATION 🛠
 ### Extract on the main game folder (where ```Lethal Company.exe``` is located). Make sure you have [BepInEx](https://github.com/BepInEx/BepInEx) and [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/) installed
@@ -48,6 +48,9 @@ Calculate the value equivalent to your desired resolution -> ```DesiredResolutio
 
 ## CHANGELOG 🕗
 
+- ***v1.4.1***
+     - Mod has a [GitHub](https://github.com/Sligili/HDLethalCompany) now, WARNING: my code is cr4p 😎
+     - New icon
 - ***v1.4.0:***
      - Added two new parameters **Level Of Detail** and **Shadow Quality**
      - LC_API now required

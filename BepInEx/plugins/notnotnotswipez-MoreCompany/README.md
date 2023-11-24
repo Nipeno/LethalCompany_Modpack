@@ -21,14 +21,28 @@ This mod is not affiliated with BiggerLobby/LethalPlayers nor does it use any co
 - Make sure everyone joining you has this mod installed.
 ```
 
+# Features
+- Cosmetics
+
 # Minor Features
 - The scavenge results screen has been modified to fit 8 players and will show their missing/deceased/alive states accordingly.
 - The spectating screen properly fits greater than 4 players if they die. (They will not go offscreen)
+- The quickmenu player volume section accounts for greater than 4 players, with a scrollable UI.
+
+# Cosmetics Demonstration
+![](https://cdn.discordapp.com/attachments/1121903172189962272/1177369023822970950/ezgif.com-video-to-gif.gif?ex=65724159&is=655fcc59&hm=92ccdc457dbba7b97f2e84169b3826064a7d1be6544846abe05f7531180bab47&)
 
 # Notice
 If playing on a save that previously had the BiggerLobby mod, you may encounter significantly more instability issues than usual. I recommend playing it safe and wiping BiggerLobby saves and making new MoreCompany ones. 
 
 # Changelog
+## 1.4.1
+- Fixed voice slider range going too quiet too quickly.
+
+## 1.4.0
+- Added cosmetic system to MoreCompany. Currently features 12 cosmetics at the time of writing.
+- Expanded UI on quickmenu to be scrollable. All players have individual volume sliders. Including kick buttons.
+
 ## 1.3.0
 - Patched furniture getting desynced between clients if objects were moved prior to joining.
 - Fixed suit on rack sometimes appearing far from the ship for clients other than the host.
@@ -49,11 +63,10 @@ If playing on a save that previously had the BiggerLobby mod, you may encounter 
 - Prevented MoreCompany servers from showing up on public lobby displays. Only other MoreCompany users can see MoreCompany public lobbies.
 
 # Upcoming (Potentially)
-- Player cosmetics.
-- Expanded UI.
-- Individual player mute sliders.
+- More cosmetics.
 
 # [Discord Server](https://discord.gg/cKa6sPBFZ9)
 
 ## ```Contributors```
 - Krystilize
+- Unun (Modeling)

@@ -16,3 +16,5 @@
 + Fixed BepInEx dependency
 # 1.1.4
 + Left out updated .dll
+# 1.2.0
++ All settings can now be edited in the config!

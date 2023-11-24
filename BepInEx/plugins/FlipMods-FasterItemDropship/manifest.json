@@ -1,8 +1,8 @@
 {
     "name": "FasterItemDropship",
-    "version_number": "1.1.4",
+    "version_number": "1.2.0",
     "website_url": "",
-    "description": "Makes the Item Dropship arrive and leave faster.",
+    "description": "Makes the Item Dropship arrive and leave faster. All settings are now configurable.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
     ]
