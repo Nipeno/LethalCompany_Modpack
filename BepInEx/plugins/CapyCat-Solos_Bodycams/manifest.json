@@ -1,0 +1,9 @@
+{
+    "name": "Solos_Bodycams",
+    "version_number": "1.0.0",
+    "website_url": "https://discord.gg/gyz9mrZ4bR",
+    "description": "Replaces the ships external camera (right monitor) with bodycams that are linked to the radar. ''HideManagerGameObject'' MUST be set to TRUE in bepinex config.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

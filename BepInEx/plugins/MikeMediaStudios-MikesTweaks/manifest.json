@@ -1,8 +1,8 @@
 {
     "name": "MikesTweaks",
-    "version_number": "1.7.0",
+    "version_number": "1.8.0",
     "website_url": "https://github.com/MikeS-MS/MikesTweaks",
-    "description": "Mod for Lethal Company with multiple configurable item weights, inventory slots amount, inventory/item slot keybinds, flashlight/walkie talkie keybinds and player stamina/sprint values to customize your own experience.",
+    "description": "Mod for Lethal Company with multiple configurable item weights, inventory slots amount, inventory/item slot keybinds, flashlight/walkie talkie keybinds, player stamina/sprint values and moons cost to travel to customize your own experience.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
     ]
